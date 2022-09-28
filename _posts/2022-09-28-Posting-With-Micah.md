@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Posting with Micah "
-date:   2022-09-28 
+date:   "2022-09-28"
 categories: jekyll update
 ---
 
