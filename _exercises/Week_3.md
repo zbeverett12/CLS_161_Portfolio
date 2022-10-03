@@ -5,9 +5,6 @@ description:
 ---
 
 
-
-# Week_3
-
 ## 2-1. Simple Message
 
 
