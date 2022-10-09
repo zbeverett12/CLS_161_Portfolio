@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Week 3 Homework
-description: 
+description: Chapter 2- Variables and Simple Data Types
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Week 4 Homework
-description:
+description: Chapters 3 and 4- Lists
 ---
 
 
