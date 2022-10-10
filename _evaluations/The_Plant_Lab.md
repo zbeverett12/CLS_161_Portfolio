@@ -7,7 +7,7 @@ description: My Evaluation of the Plant Humanities Lab
 ## Source
 “Plant Humanities Lab .” Plant Humanities Lab, https://lab.plant-humanities.org/. 
 
-DH Project Review 1: Plant Humanities Lab
+## DH Project Review 1: Plant Humanities Lab
 
 The Plant Humanities Lab is a digital repository of primary and secondary sources, like original scholarship, as well as linked open data. I think of the project as being like a better-resourced Wikipedia specific to the study of plants; but while Wikipedia has much more of an open-source model, it seems like perhaps the information within the Plant Humanities Lab is better curated by scholars and able to provide quicker access to digital resources beyond the lab.
 The backgrounds of the Lab’s leadership are undoubtedly impressive. The leadership of the organization is consolidated within an advisory committee of six: each with a relevant background in either scholarship or the practice of the plant humanities. Interestingly, while four of the six have formal positions with the head of the organization being President Peter Crane, the Lab lists leadership alphabetically by last name: perhaps indicative of the Committee being more of a horizontal leadership structure. The advisory committee meets twice a year. 
