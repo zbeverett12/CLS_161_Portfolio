@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Week 6 Homework
-description: Chapter 6: Dictionaries 
+description: Chapter 6- Dictionaries 
 ---
 
 ### Exercises: 6-1, 6-2, 6-3, 6-4, 6-5, 6-7, 6-8, 6-9, 6-11
