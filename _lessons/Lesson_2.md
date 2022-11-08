@@ -3,7 +3,6 @@ layout: page
 title: Downloading Web Pages with Python
 description: This lesson introduces Uniform Resource Locators (URLs) and explains how to use Python to download and save the contents of a web page to your local hard drive.
 
-
 ---
 
 ## Source 
